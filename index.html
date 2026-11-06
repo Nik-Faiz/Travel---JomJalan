@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' https: data:; connect-src https://geocoding-api.open-meteo.com https://api.open-meteo.com https://open.er-api.com https://en.wikipedia.org">
+  <title>JomJalan - Explore</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <nav>
+    <span class="brand">✈ JomJalan</span>
+    <a href="index.html" class="active">Explore Destination</a>
+    <a href="itinerary.html">My Travel Plans</a>
+  </nav>
+  <main>
+    <div class="card">
+      <h2>Search a Destination</h2>
+      <p>Type a country name (e.g. Japan, Thailand, France) to see travel info, weather, activity suggestions and a trip cost estimate.</p>
+      <div class="row">
+        <div><label for="countryInput">Country</label><input id="countryInput" list="countryList" placeholder="e.g. Japan"><datalist id="countryList"></datalist></div>
+        <button id="searchBtn" style="flex:0">Search</button>
+      </div>
+      <div id="status" class="msg"></div>
+    </div>
+
+    <div id="results" class="hidden">
+      <div class="grid">
+        <div class="card"><h3>Country Information</h3><div id="countryBox"></div></div>
+        <div class="card"><h3>Current Weather &amp; Forecast</h3><div id="weatherBox"></div></div>
+      </div>
+      <div class="card"><h3>About the Destination</h3><div id="wikiBox"></div></div>
+      <div class="card"><h3>Upcoming Public Holidays</h3><div id="holidayBox"></div></div>
+      <div class="card"><h3>Suggested Activities</h3><div id="suggestBox" class="suggest"></div>
+        <button id="savePlanBtn" class="alt" style="margin-top:12px">Save to My Travel Plans</button></div>
+      <div class="grid">
+        <div class="card"><h3>Travel Packages</h3><div id="pkgBox"></div></div>
+        <div class="card"><h3>Trip Cost Calculator</h3>
+          <div class="row">
+            <div><label for="pkgSelect">Package (optional)</label><select id="pkgSelect"><option value="0">No package</option></select></div>
+            <div><label for="days">Days</label><input id="days" type="number" min="1" max="60" value="5"></div>
+          </div>
+          <div class="row">
+            <div><label for="travelers">Travelers</label><input id="travelers" type="number" min="1" max="20" value="1"></div>
+            <div><label for="daily">Daily spending (MYR / person)</label><input id="daily" type="number" min="0" value="150"></div>
+          </div>
+          <button id="calcBtn">Calculate</button>
+          <div id="calcMsg" class="msg"></div>
+          <div id="calcResult" class="result hidden"></div>
+        </div>
+      </div>
+    </div>
+  </main>
+  <script src="index.js"></script>
+</body>
+</html>

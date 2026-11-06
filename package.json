@@ -1,0 +1,15 @@
+{
+  "name": "jomjalan-weather-itinerary-app",
+  "productName": "JomJalan",
+  "version": "1.0.0",
+  "description": "JomJalan - Travel Agency Electron desktop application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^33.0.0"
+  }
+}

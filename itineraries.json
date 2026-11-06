@@ -1,0 +1,10 @@
+{
+  "packages": [
+    { "id": "P1", "name": "Island Escape", "type": "Beach", "regions": ["Asia", "Oceania"], "days": 5, "priceMYR": 2200, "includes": "Resort, boat tour, snorkelling" },
+    { "id": "P2", "name": "City Explorer", "type": "City", "regions": ["Asia", "Europe", "Americas"], "days": 4, "priceMYR": 2800, "includes": "Hotel, city pass, food tour" },
+    { "id": "P3", "name": "Culture & Heritage", "type": "Culture", "regions": ["Asia", "Europe", "Africa"], "days": 6, "priceMYR": 3400, "includes": "Guide, museum tickets, homestay" },
+    { "id": "P4", "name": "Adventure Trail", "type": "Adventure", "regions": ["Asia", "Europe", "Americas", "Oceania", "Africa"], "days": 7, "priceMYR": 4100, "includes": "Trekking guide, camping, transport" },
+    { "id": "P5", "name": "Euro Snow Getaway", "type": "Winter", "regions": ["Europe", "Asia"], "days": 6, "priceMYR": 6500, "includes": "Ski pass, chalet, transfers" },
+    { "id": "P6", "name": "Budget Backpacker", "type": "Budget", "regions": ["Asia", "Europe", "Africa", "Americas", "Oceania"], "days": 3, "priceMYR": 1200, "includes": "Hostel, local transport pass" }
+  ]
+}

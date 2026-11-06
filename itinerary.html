@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'">
+  <title>JomJalan - My Travel Plans</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <nav>
+    <span class="brand">✈ JomJalan</span>
+    <a href="index.html">Explore Destination</a>
+    <a href="itinerary.html" class="active">My Travel Plans</a>
+  </nav>
+  <main>
+    <div class="card">
+      <h2 id="formTitle">Add Travel Plan</h2>
+      <input type="hidden" id="planId">
+      <div class="row">
+        <div><label for="country">Country *</label><input id="country"></div>
+        <div><label for="startDate">Start date *</label><input id="startDate" type="date"></div>
+        <div><label for="endDate">End date *</label><input id="endDate" type="date"></div>
+      </div>
+      <div class="row">
+        <div><label for="travelers">Travelers *</label><input id="travelers" type="number" min="1" max="20" value="1"></div>
+        <div><label for="budget">Budget (MYR) *</label><input id="budget" type="number" min="0"></div>
+      </div>
+      <div class="row">
+        <div><label for="suggestion">Suggested activities</label><textarea id="suggestion" rows="2"></textarea></div>
+        <div><label for="notes">Notes</label><textarea id="notes" rows="2"></textarea></div>
+      </div>
+      <button id="saveBtn">Save Plan</button>
+      <button id="cancelBtn" class="alt hidden">Cancel Edit</button>
+      <div id="msg" class="msg"></div>
+    </div>
+
+    <div class="card">
+      <h2>Saved Plans</h2>
+      <div class="row"><div><label for="search">Filter by country</label><input id="search" placeholder="Type to filter..."></div></div>
+      <div id="listBox"></div>
+    </div>
+  </main>
+  <script src="itinerary.js"></script>
+</body>
+</html>

@@ -1,0 +1,854 @@
+[
+ {
+  "name": {
+   "common": "Malaysia",
+   "official": "Malaysia"
+  },
+  "cca2": "MY",
+  "capital": [
+   "Kuala Lumpur"
+  ],
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "currencies": {
+   "MYR": {
+    "name": "Malaysian ringgit"
+   }
+  },
+  "languages": {
+   "0": "Malay",
+   "1": "English"
+  },
+  "latlng": [
+   3.14,
+   101.69
+  ],
+  "area": 330803,
+  "altSpellings": [
+   "MY"
+  ]
+ },
+ {
+  "name": {
+   "common": "Singapore",
+   "official": "Republic of Singapore"
+  },
+  "cca2": "SG",
+  "capital": [
+   "Singapore"
+  ],
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "currencies": {
+   "SGD": {
+    "name": "Singapore dollar"
+   }
+  },
+  "languages": {
+   "0": "English",
+   "1": "Malay",
+   "2": "Mandarin",
+   "3": "Tamil"
+  },
+  "latlng": [
+   1.35,
+   103.82
+  ],
+  "area": 710,
+  "altSpellings": [
+   "SG"
+  ]
+ },
+ {
+  "name": {
+   "common": "Thailand",
+   "official": "Kingdom of Thailand"
+  },
+  "cca2": "TH",
+  "capital": [
+   "Bangkok"
+  ],
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "currencies": {
+   "THB": {
+    "name": "Thai baht"
+   }
+  },
+  "languages": {
+   "0": "Thai"
+  },
+  "latlng": [
+   13.75,
+   100.5
+  ],
+  "area": 513120,
+  "altSpellings": [
+   "TH"
+  ]
+ },
+ {
+  "name": {
+   "common": "Indonesia",
+   "official": "Republic of Indonesia"
+  },
+  "cca2": "ID",
+  "capital": [
+   "Jakarta"
+  ],
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "currencies": {
+   "IDR": {
+    "name": "Indonesian rupiah"
+   }
+  },
+  "languages": {
+   "0": "Indonesian"
+  },
+  "latlng": [
+   -6.2,
+   106.85
+  ],
+  "area": 1904569,
+  "altSpellings": [
+   "ID"
+  ]
+ },
+ {
+  "name": {
+   "common": "Vietnam",
+   "official": "Socialist Republic of Vietnam"
+  },
+  "cca2": "VN",
+  "capital": [
+   "Hanoi"
+  ],
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "currencies": {
+   "VND": {
+    "name": "Vietnamese dong"
+   }
+  },
+  "languages": {
+   "0": "Vietnamese"
+  },
+  "latlng": [
+   21.03,
+   105.85
+  ],
+  "area": 331212,
+  "altSpellings": [
+   "VN"
+  ]
+ },
+ {
+  "name": {
+   "common": "Philippines",
+   "official": "Republic of the Philippines"
+  },
+  "cca2": "PH",
+  "capital": [
+   "Manila"
+  ],
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "currencies": {
+   "PHP": {
+    "name": "Philippine peso"
+   }
+  },
+  "languages": {
+   "0": "Filipino",
+   "1": "English"
+  },
+  "latlng": [
+   14.6,
+   120.98
+  ],
+  "area": 342353,
+  "altSpellings": [
+   "PH"
+  ]
+ },
+ {
+  "name": {
+   "common": "Cambodia",
+   "official": "Kingdom of Cambodia"
+  },
+  "cca2": "KH",
+  "capital": [
+   "Phnom Penh"
+  ],
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "currencies": {
+   "KHR": {
+    "name": "Cambodian riel"
+   }
+  },
+  "languages": {
+   "0": "Khmer"
+  },
+  "latlng": [
+   11.55,
+   104.92
+  ],
+  "area": 181035,
+  "altSpellings": [
+   "KH"
+  ]
+ },
+ {
+  "name": {
+   "common": "Brunei",
+   "official": "Brunei Darussalam"
+  },
+  "cca2": "BN",
+  "capital": [
+   "Bandar Seri Begawan"
+  ],
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "currencies": {
+   "BND": {
+    "name": "Brunei dollar"
+   }
+  },
+  "languages": {
+   "0": "Malay"
+  },
+  "latlng": [
+   4.89,
+   114.94
+  ],
+  "area": 5765,
+  "altSpellings": [
+   "BN"
+  ]
+ },
+ {
+  "name": {
+   "common": "Japan",
+   "official": "Japan"
+  },
+  "cca2": "JP",
+  "capital": [
+   "Tokyo"
+  ],
+  "region": "Asia",
+  "subregion": "Eastern Asia",
+  "currencies": {
+   "JPY": {
+    "name": "Japanese yen"
+   }
+  },
+  "languages": {
+   "0": "Japanese"
+  },
+  "latlng": [
+   35.68,
+   139.76
+  ],
+  "area": 377930,
+  "altSpellings": [
+   "JP"
+  ]
+ },
+ {
+  "name": {
+   "common": "South Korea",
+   "official": "Republic of Korea"
+  },
+  "cca2": "KR",
+  "capital": [
+   "Seoul"
+  ],
+  "region": "Asia",
+  "subregion": "Eastern Asia",
+  "currencies": {
+   "KRW": {
+    "name": "South Korean won"
+   }
+  },
+  "languages": {
+   "0": "Korean"
+  },
+  "latlng": [
+   37.57,
+   126.98
+  ],
+  "area": 100210,
+  "altSpellings": [
+   "KR"
+  ]
+ },
+ {
+  "name": {
+   "common": "China",
+   "official": "People's Republic of China"
+  },
+  "cca2": "CN",
+  "capital": [
+   "Beijing"
+  ],
+  "region": "Asia",
+  "subregion": "Eastern Asia",
+  "currencies": {
+   "CNY": {
+    "name": "Chinese yuan"
+   }
+  },
+  "languages": {
+   "0": "Chinese"
+  },
+  "latlng": [
+   39.9,
+   116.4
+  ],
+  "area": 9706961,
+  "altSpellings": [
+   "CN"
+  ]
+ },
+ {
+  "name": {
+   "common": "India",
+   "official": "Republic of India"
+  },
+  "cca2": "IN",
+  "capital": [
+   "New Delhi"
+  ],
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "currencies": {
+   "INR": {
+    "name": "Indian rupee"
+   }
+  },
+  "languages": {
+   "0": "Hindi",
+   "1": "English"
+  },
+  "latlng": [
+   28.61,
+   77.21
+  ],
+  "area": 3287590,
+  "altSpellings": [
+   "IN"
+  ]
+ },
+ {
+  "name": {
+   "common": "Maldives",
+   "official": "Republic of Maldives"
+  },
+  "cca2": "MV",
+  "capital": [
+   "Malé"
+  ],
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "currencies": {
+   "MVR": {
+    "name": "Maldivian rufiyaa"
+   }
+  },
+  "languages": {
+   "0": "Divehi"
+  },
+  "latlng": [
+   4.18,
+   73.51
+  ],
+  "area": 300,
+  "altSpellings": [
+   "MV"
+  ]
+ },
+ {
+  "name": {
+   "common": "Turkey",
+   "official": "Republic of Türkiye"
+  },
+  "cca2": "TR",
+  "capital": [
+   "Ankara"
+  ],
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "currencies": {
+   "TRY": {
+    "name": "Turkish lira"
+   }
+  },
+  "languages": {
+   "0": "Turkish"
+  },
+  "latlng": [
+   39.93,
+   32.86
+  ],
+  "area": 783562,
+  "altSpellings": [
+   "TR"
+  ]
+ },
+ {
+  "name": {
+   "common": "United Arab Emirates",
+   "official": "United Arab Emirates"
+  },
+  "cca2": "AE",
+  "capital": [
+   "Abu Dhabi"
+  ],
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "currencies": {
+   "AED": {
+    "name": "UAE dirham"
+   }
+  },
+  "languages": {
+   "0": "Arabic"
+  },
+  "latlng": [
+   24.47,
+   54.37
+  ],
+  "area": 83600,
+  "altSpellings": [
+   "AE"
+  ]
+ },
+ {
+  "name": {
+   "common": "Saudi Arabia",
+   "official": "Kingdom of Saudi Arabia"
+  },
+  "cca2": "SA",
+  "capital": [
+   "Riyadh"
+  ],
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "currencies": {
+   "SAR": {
+    "name": "Saudi riyal"
+   }
+  },
+  "languages": {
+   "0": "Arabic"
+  },
+  "latlng": [
+   24.71,
+   46.68
+  ],
+  "area": 2149690,
+  "altSpellings": [
+   "SA"
+  ]
+ },
+ {
+  "name": {
+   "common": "Australia",
+   "official": "Commonwealth of Australia"
+  },
+  "cca2": "AU",
+  "capital": [
+   "Canberra"
+  ],
+  "region": "Oceania",
+  "subregion": "Australia and New Zealand",
+  "currencies": {
+   "AUD": {
+    "name": "Australian dollar"
+   }
+  },
+  "languages": {
+   "0": "English"
+  },
+  "latlng": [
+   -35.28,
+   149.13
+  ],
+  "area": 7692024,
+  "altSpellings": [
+   "AU"
+  ]
+ },
+ {
+  "name": {
+   "common": "New Zealand",
+   "official": "New Zealand"
+  },
+  "cca2": "NZ",
+  "capital": [
+   "Wellington"
+  ],
+  "region": "Oceania",
+  "subregion": "Australia and New Zealand",
+  "currencies": {
+   "NZD": {
+    "name": "New Zealand dollar"
+   }
+  },
+  "languages": {
+   "0": "English",
+   "1": "Maori"
+  },
+  "latlng": [
+   -41.29,
+   174.78
+  ],
+  "area": 270467,
+  "altSpellings": [
+   "NZ"
+  ]
+ },
+ {
+  "name": {
+   "common": "United Kingdom",
+   "official": "United Kingdom of Great Britain and Northern Ireland"
+  },
+  "cca2": "GB",
+  "capital": [
+   "London"
+  ],
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "currencies": {
+   "GBP": {
+    "name": "British pound"
+   }
+  },
+  "languages": {
+   "0": "English"
+  },
+  "latlng": [
+   51.51,
+   -0.13
+  ],
+  "area": 242900,
+  "altSpellings": [
+   "GB"
+  ]
+ },
+ {
+  "name": {
+   "common": "France",
+   "official": "French Republic"
+  },
+  "cca2": "FR",
+  "capital": [
+   "Paris"
+  ],
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "currencies": {
+   "EUR": {
+    "name": "Euro"
+   }
+  },
+  "languages": {
+   "0": "French"
+  },
+  "latlng": [
+   48.86,
+   2.35
+  ],
+  "area": 551695,
+  "altSpellings": [
+   "FR"
+  ]
+ },
+ {
+  "name": {
+   "common": "Germany",
+   "official": "Federal Republic of Germany"
+  },
+  "cca2": "DE",
+  "capital": [
+   "Berlin"
+  ],
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "currencies": {
+   "EUR": {
+    "name": "Euro"
+   }
+  },
+  "languages": {
+   "0": "German"
+  },
+  "latlng": [
+   52.52,
+   13.4
+  ],
+  "area": 357114,
+  "altSpellings": [
+   "DE"
+  ]
+ },
+ {
+  "name": {
+   "common": "Italy",
+   "official": "Italian Republic"
+  },
+  "cca2": "IT",
+  "capital": [
+   "Rome"
+  ],
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "currencies": {
+   "EUR": {
+    "name": "Euro"
+   }
+  },
+  "languages": {
+   "0": "Italian"
+  },
+  "latlng": [
+   41.9,
+   12.5
+  ],
+  "area": 301336,
+  "altSpellings": [
+   "IT"
+  ]
+ },
+ {
+  "name": {
+   "common": "Spain",
+   "official": "Kingdom of Spain"
+  },
+  "cca2": "ES",
+  "capital": [
+   "Madrid"
+  ],
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "currencies": {
+   "EUR": {
+    "name": "Euro"
+   }
+  },
+  "languages": {
+   "0": "Spanish"
+  },
+  "latlng": [
+   40.42,
+   -3.7
+  ],
+  "area": 505992,
+  "altSpellings": [
+   "ES"
+  ]
+ },
+ {
+  "name": {
+   "common": "Switzerland",
+   "official": "Swiss Confederation"
+  },
+  "cca2": "CH",
+  "capital": [
+   "Bern"
+  ],
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "currencies": {
+   "CHF": {
+    "name": "Swiss franc"
+   }
+  },
+  "languages": {
+   "0": "German",
+   "1": "French",
+   "2": "Italian"
+  },
+  "latlng": [
+   46.95,
+   7.45
+  ],
+  "area": 41284,
+  "altSpellings": [
+   "CH"
+  ]
+ },
+ {
+  "name": {
+   "common": "Netherlands",
+   "official": "Kingdom of the Netherlands"
+  },
+  "cca2": "NL",
+  "capital": [
+   "Amsterdam"
+  ],
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "currencies": {
+   "EUR": {
+    "name": "Euro"
+   }
+  },
+  "languages": {
+   "0": "Dutch"
+  },
+  "latlng": [
+   52.37,
+   4.9
+  ],
+  "area": 41850,
+  "altSpellings": [
+   "NL"
+  ]
+ },
+ {
+  "name": {
+   "common": "United States",
+   "official": "United States of America"
+  },
+  "cca2": "US",
+  "capital": [
+   "Washington D.C."
+  ],
+  "region": "Americas",
+  "subregion": "North America",
+  "currencies": {
+   "USD": {
+    "name": "United States dollar"
+   }
+  },
+  "languages": {
+   "0": "English"
+  },
+  "latlng": [
+   38.9,
+   -77.04
+  ],
+  "area": 9372610,
+  "altSpellings": [
+   "US"
+  ]
+ },
+ {
+  "name": {
+   "common": "Canada",
+   "official": "Canada"
+  },
+  "cca2": "CA",
+  "capital": [
+   "Ottawa"
+  ],
+  "region": "Americas",
+  "subregion": "North America",
+  "currencies": {
+   "CAD": {
+    "name": "Canadian dollar"
+   }
+  },
+  "languages": {
+   "0": "English",
+   "1": "French"
+  },
+  "latlng": [
+   45.42,
+   -75.7
+  ],
+  "area": 9984670,
+  "altSpellings": [
+   "CA"
+  ]
+ },
+ {
+  "name": {
+   "common": "Brazil",
+   "official": "Federative Republic of Brazil"
+  },
+  "cca2": "BR",
+  "capital": [
+   "Brasília"
+  ],
+  "region": "Americas",
+  "subregion": "South America",
+  "currencies": {
+   "BRL": {
+    "name": "Brazilian real"
+   }
+  },
+  "languages": {
+   "0": "Portuguese"
+  },
+  "latlng": [
+   -15.79,
+   -47.88
+  ],
+  "area": 8515767,
+  "altSpellings": [
+   "BR"
+  ]
+ },
+ {
+  "name": {
+   "common": "Egypt",
+   "official": "Arab Republic of Egypt"
+  },
+  "cca2": "EG",
+  "capital": [
+   "Cairo"
+  ],
+  "region": "Africa",
+  "subregion": "Northern Africa",
+  "currencies": {
+   "EGP": {
+    "name": "Egyptian pound"
+   }
+  },
+  "languages": {
+   "0": "Arabic"
+  },
+  "latlng": [
+   30.04,
+   31.24
+  ],
+  "area": 1002450,
+  "altSpellings": [
+   "EG"
+  ]
+ },
+ {
+  "name": {
+   "common": "South Africa",
+   "official": "Republic of South Africa"
+  },
+  "cca2": "ZA",
+  "capital": [
+   "Pretoria"
+  ],
+  "region": "Africa",
+  "subregion": "Southern Africa",
+  "currencies": {
+   "ZAR": {
+    "name": "South African rand"
+   }
+  },
+  "languages": {
+   "0": "English",
+   "1": "Zulu",
+   "2": "Afrikaans"
+  },
+  "latlng": [
+   -25.75,
+   28.19
+  ],
+  "area": 1221037,
+  "altSpellings": [
+   "ZA"
+  ]
+ }
+]
